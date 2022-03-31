@@ -1,9 +1,14 @@
 body{
-    background-color: #46a337
+    background-color: #0E1428
   }
   
   div{
-   background-color: #e8f0e4;
+   background-color: #D95D39;
    /* width: 400px;  */
    text-align:center;
    margin: auto;
+  }
+
+  .table-img{
+    width: 400px;
+  }
